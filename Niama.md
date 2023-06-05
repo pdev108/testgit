@@ -1,5 +1,5 @@
- classe  publique principale {
-    public  static  void  main ( Chaîne [] args ) {
-        Système . dehors . println ( "Bonjour, Paris !" );
+ publique class Main {
+  public  static  void  main(string[] args) {
+   Systeme.out.println("Bonjour, Paris !");
     }
 }
